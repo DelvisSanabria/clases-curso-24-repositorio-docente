@@ -26,7 +26,7 @@ Crea un archivo HTML con la siguiente estructura y contenido:
 
 ### **Código de referencia (no lo copies directamente, úsalo como guía después de intentar el ejercicio):**
 
-```html
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -82,7 +82,7 @@ Crea un archivo HTML con la siguiente estructura y contenido, utilizando las eti
 
 ### **Código de referencia (no lo copies directamente, úsalo como guía después de intentar el ejercicio):**
 
-```html
+
 <!DOCTYPE html>
 <html lang="es">
 <head>

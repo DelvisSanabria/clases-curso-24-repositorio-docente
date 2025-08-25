@@ -7,14 +7,14 @@
 Imagina que Amazon está desarrollando un nuevo sistema interno para organizar sus departamentos y equipos de desarrollo. Necesitamos una estructura de archivos que represente cómo se organizarían.
 
 
-### **Instrucciones Generales para Todos los Estudiantes:**
+### Instrucciones Generales para Todos los Estudiantes:
 
 1.  **Crear una cuenta en GitHub** (si aún no la tienen).
 2.  **Entender los conceptos básicos:** Repasen la información que se les proporcionó sobre GitHub, repositorios, ramas, commits, pull requests, etc.
 3.  **Comuníquenme su nombre de usuario de GitHub** al finalizar el ejercicio.
 
 
-### **Rol del Profesor (Usted):**
+### Rol del Profesor (Usted):
 
 1.  **Crear el Repositorio Base:**
     * Cree un nuevo repositorio en GitHub llamado `amazon-futuro`.
@@ -28,9 +28,9 @@ Imagina que Amazon está desarrollando un nuevo sistema interno para organizar s
     * Explique claramente la tarea individual de cada estudiante, como se detalla a continuación.
 
 
-### **Tareas Individuales para los Estudiantes:**
+### Tareas Individuales para los Estudiantes:
 
-**Estudiante 1: (Jefe de Proyectos - Configuración Inicial)**
+**Estudiante Mauricio: (Jefe de Proyectos - Configuración Inicial)** (Listo)
 * **Forkea** el repositorio `amazon-futuro` a tu cuenta de GitHub con propósitos colaborativos.
 * **Clona** tu fork a tu máquina local.
 * Crea una **nueva rama** en tu repositorio local llamada `feature/planificacion-inicial`.
@@ -41,7 +41,8 @@ Imagina que Amazon está desarrollando un nuevo sistema interno para organizar s
 * Haz **push origin** de tus cambios a tu rama `feature/planificacion-inicial` en tu repositorio remoto (tu fork).
 * Crea un **Pull Request** desde tu rama `feature/planificacion-inicial` de tu fork a la rama `main` del repositorio original `amazon-futuro`. En la descripción del PR, escribe "Se añade el archivo de planificación inicial."
 
-**Estudiante 2: (Arquitecto de Carpetas - Estructura de Departamentos)**
+**Estudiante Euro: (Arquitecto de Carpetas - Estructura de Departamentos)**
+(Listo)
 * **Forkea** el repositorio `amazon-futuro` a tu cuenta de GitHub con propósitos colaborativos.
 * **Clona** tu fork a tu máquina local.
 * Crea una **nueva rama** en tu repositorio local llamada `feature/estructura-departamentos`.
@@ -53,7 +54,7 @@ Imagina que Amazon está desarrollando un nuevo sistema interno para organizar s
 * Haz **push origin** de tus cambios a tu rama `feature/estructura-departamentos` en tu repositorio remoto (tu fork).
 * Crea un **Pull Request** desde tu rama `feature/estructura-departamentos` de tu fork a la rama `main` del repositorio original `amazon-futuro`. En la descripción del PR, escribe "Se agrega la estructura de departamentos."
 
-**Estudiante 3: (Especialista en Documentación - Información de Contacto)**
+**Estudiante Wolmar: (Especialista en Documentación - Información de Contacto)**
 * **Forkea** el repositorio `amazon-futuro` a tu cuenta de GitHub con propósitos colaborativos.
 * **Clona** tu fork a tu máquina local.
 * Crea una **nueva rama** en tu repositorio local llamada `feature/contactos`.
@@ -65,7 +66,8 @@ Imagina que Amazon está desarrollando un nuevo sistema interno para organizar s
 * Haz **push origin** de tus cambios a tu rama `feature/contactos` en tu repositorio remoto (tu fork).
 * Crea un **Pull Request** desde tu rama `feature/contactos` de tu fork a la rama `main` del repositorio original `amazon-futuro`. En la descripción del PR, escribe "Se añade el archivo de contactos."
 
-**Estudiante 4: (Analista de Proyectos - Notas Iniciales)**
+**Estudiante Elvis: (Analista de Proyectos - Notas Iniciales)**
+(Listo)
 * **Forkea** el repositorio `amazon-futuro` a tu cuenta de GitHub con propósitos colaborativos.
 * **Clona** tu fork a tu máquina local.
 * Crea una **nueva rama** en tu repositorio local llamada `feature/notas-iniciales`.
@@ -77,7 +79,8 @@ Imagina que Amazon está desarrollando un nuevo sistema interno para organizar s
 * Haz **push origin** de tus cambios a tu rama `feature/notas-iniciales` en tu repositorio remoto (tu fork).
 * Crea un **Pull Request** desde tu rama `feature/notas-iniciales` de tu fork a la rama `main` del repositorio original `amazon-futuro`. En la descripción del PR, escribe "Se agrega la carpeta y archivo de notas."
 
-**Estudiante 5: (Organizador de Recursos - Herramientas)**
+**Estudiante Santiago: (Organizador de Recursos - Herramientas)**
+(Listo)
 * **Forkea** el repositorio `amazon-futuro` a tu cuenta de GitHub con propósitos colaborativos.
 * **Clona** tu fork a tu máquina local.
 * Crea una **nueva rama** en tu repositorio local llamada `feature/herramientas`.
@@ -89,7 +92,8 @@ Imagina que Amazon está desarrollando un nuevo sistema interno para organizar s
 * Haz **push origin** de tus cambios a tu rama `feature/herramientas` en tu repositorio remoto (tu fork).
 * Crea un **Pull Request** desde tu rama `feature/herramientas` de tu fork a la rama `main` del repositorio original `amazon-futuro`. En la descripción del PR, escribe "Se añade la lista de herramientas."
 
-**Estudiante 6: (Diseñador de Flujos - Procesos)**
+**Estudiante Nesuady: (Diseñador de Flujos - Procesos)**
+(Listo)
 * **Forkea** el repositorio `amazon-futuro` a tu cuenta de GitHub con propósitos colaborativos.
 * **Clona** tu fork a tu máquina local.
 * Crea una **nueva rama** en tu repositorio local llamada `feature/procesos`.
@@ -101,7 +105,8 @@ Imagina que Amazon está desarrollando un nuevo sistema interno para organizar s
 * Haz **push origin** de tus cambios a tu rama `feature/procesos` en tu repositorio remoto (tu fork).
 * Crea un **Pull Request** desde tu rama `feature/procesos` de tu fork a la rama `main` del repositorio original `amazon-futuro`. En la descripción del PR, escribe "Se agrega el archivo de flujo de trabajo."
 
-**Estudiante 7: (Especialista en Nombres - Convenciones)**
+**Estudiante Manuel: (Especialista en Nombres - Convenciones)**
+(Listo)
 * **Forkea** el repositorio `amazon-futuro` a tu cuenta de GitHub con propósitos colaborativos.
 * **Clona** tu fork a tu máquina local.
 * Crea una **nueva rama** en tu repositorio local llamada `feature/convenciones`.
@@ -113,7 +118,8 @@ Imagina que Amazon está desarrollando un nuevo sistema interno para organizar s
 * Haz **push origin** de tus cambios a tu rama `feature/convenciones` en tu repositorio remoto (tu fork).
 * Crea un **Pull Request** desde tu rama `feature/convenciones` de tu fork a la rama `main` del repositorio original `amazon-futuro`. En la descripción del PR, escribe "Se añade documento de convenciones de nombres."
 
-**Estudiante 8: (Gestor de Ramas - Pruebas)**
+**Estudiante Brayan: (Gestor de Ramas - Pruebas)**
+(Listo)
 * **Forkea** el repositorio `amazon-futuro` a tu cuenta de GitHub con propósitos colaborativos.
 * **Clona** tu fork a tu máquina local.
 * Crea una **nueva rama** en tu repositorio local llamada `feature/pruebas-desarrollo`.
@@ -124,7 +130,8 @@ Imagina que Amazon está desarrollando un nuevo sistema interno para organizar s
 * Haz **push origin** de la rama `feature/pruebas-desarrollo` a tu repositorio remoto (tu fork).
 * Crea un **Pull Request** desde tu rama `feature/pruebas-desarrollo` de tu fork a la rama `main` del repositorio original `amazon-futuro`. En la descripción del PR, escribe "Se añade la estructura de pruebas."
 
-**Estudiante 9: (Actualizador de Readme - Descripción Ampliada)**
+**Estudiante Josluis: (Actualizador de Readme - Descripción Ampliada)**
+(listo)
 * **Forkea** el repositorio `amazon-futuro` a tu cuenta de GitHub con propósitos colaborativos.
 * **Clona** tu fork a tu máquina local.
 * Crea una **nueva rama** en tu repositorio local llamada `feature/ampliar-readme`.
@@ -135,7 +142,8 @@ Imagina que Amazon está desarrollando un nuevo sistema interno para organizar s
 * Haz **push origin** de tus cambios a tu rama `feature/ampliar-readme` en tu repositorio remoto (tu fork).
 * Crea un **Pull Request** desde tu rama `feature/ampliar-readme` de tu fork a la rama `main` del repositorio original `amazon-futuro`. En la descripción del PR, escribe "Se actualiza el README."
 
-**Estudiante 10: (Creación de Tareas - Listado Pendiente)**
+**Estudiante Dario: (Creación de Tareas - Listado Pendiente)**
+(listo)
 * **Forkea** el repositorio `amazon-futuro` a tu cuenta de GitHub con propósitos colaborativos.
 * **Clona** tu fork a tu máquina local.
 * Crea una **nueva rama** en tu repositorio local llamada `feature/lista-tareas`.
